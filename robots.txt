@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://juseated.github.io/sitemap.html
+Sitemap: https://juseated.github.io/app/sitemap.html
+Sitemap: https://juseated.github.io/assets/sitemap.html
+Sitemap: https://juseated.github.io/includes/sitemap.html
+Sitemap: https://juseated.github.io/src/sitemap.html
